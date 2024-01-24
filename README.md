@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Samuel Duarte and i'm currently in my second year of my Level 3 National Extended Diploma in Information Technology at Westminster Kingsway College.
-- 👀 I’m interested in gaining knowledge and experience about Cyber Security. Furthermore, in the future i would like to go to University or do an Apprenticeship.
-- 🌱 I’m currently learning python and learning about Cyber Security from a webiste called TryHackMe. 
-- 💞️ I’m looking to collaborate on projects based on Cyber Security that can help me expand my skills in the field
+- 👋 Hi, I’m Samuel Duarte and i'm currently in my first year of BSc Computer Science at City, University of London
+- 👀 I’m interested in gaining knowledge and experience about Excel and SQL.
+- 🌱 I’m currently learning excel and SQL from both Univeristy and from Youtube. Then implement some of my knowlege on some of the projects that I have on here 
+- 💞️ I’m looking to collaborate on projects based on Databases or Data Analytics
 - 📫 Please feel free to contact me at : samduart.26@gmail.com 
 
 <!---
